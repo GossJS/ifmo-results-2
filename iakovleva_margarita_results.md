@@ -1,3 +1,7 @@
+CRUD
+https://github.com/GossJS/api-step-1-Margar1ta
+
+БЛОГ
 https://thawing-fortress-48223.herokuapp.com/ - клиент
 
 https://pure-refuge-32982.herokuapp.com/posts/ooo - сервер
